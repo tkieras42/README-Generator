@@ -1,0 +1,14 @@
+{
+    "name": "mini-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "8.2.4"
+    }
+  }
+  
